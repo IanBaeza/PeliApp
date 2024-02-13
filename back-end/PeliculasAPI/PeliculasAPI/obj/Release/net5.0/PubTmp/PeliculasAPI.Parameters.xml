@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PeliculasAPI20231218133342" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Ian\\Documents\\PROJECTOS\\AngularPeliculasMigration\\back-end\\PeliculasAPI\\PeliculasAPI\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="PeliculasAPI.ApplicationDbContext" description="" value="Data Source=tcp:peliculasdbservernicolas.database.windows.net,1433;Initial Catalog=PeliculasAPI_db;User Id=ianbaeza@peliculasdbservernicolas;Password=Katty1313." tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Ian\\Documents\\PROJECTOS\\AngularPeliculasMigration\\back-end\\PeliculasAPI\\PeliculasAPI\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\PeliculasAPI\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

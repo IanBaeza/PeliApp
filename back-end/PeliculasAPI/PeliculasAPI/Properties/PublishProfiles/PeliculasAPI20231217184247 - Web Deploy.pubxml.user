@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARUJ2p8aWlEeJ+qFppUO1owAAAAACAAAAAAAQZgAAAAEAACAAAAAdrnZ3TQFeUI/Xl3v6YQAOPDg8DtuSGU13St8xGlxpWQAAAAAOgAAAAAIAACAAAACVaytVgjj1MecjxAzltQR9n4YlU5S/4mQng6pHMc8nrYAAAAA12E3avsseu2dYUyYmINW1R46dbZdfus+BQp9qOkEb12rOzUDpkoSYEJyAl5G2L+vIDaZOz6qxO+5oJJGn7SAwA0AYE+6xD+Uv+N0Rh2bge54svZtCwT4828bIvc1Bd1JRKu5bd2OaN/QBFc48FjP2dQRkUCyV8hQg5xrgXTvXMUAAAACXcD4FnCOVTaPhGhpOkOr7ofWtQeqXS0bVSDEL3sEdTrOV0Cs0RM0WR5zKRKxvjD6XijnY6NImiBEerym8de8G</EncryptedPassword>
+    <History>True|2023-12-18T00:45:41.9102491Z;True|2023-12-17T21:28:57.6293407-03:00;True|2023-12-17T20:07:04.7058180-03:00;True|2023-12-17T19:53:40.1285819-03:00;True|2023-12-17T19:26:01.2811043-03:00;True|2023-12-17T19:21:12.6878994-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="PeliculasAPI.ApplicationDbContext">
+      <Value>Data Source=tcp:serverpeliculasnicolas.database.windows.net,1433%3bInitial Catalog=PeliculasAPI_db%3bUser Id=ianbaeza%40serverpeliculasnicolas%3bPassword=Katty1313.</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
