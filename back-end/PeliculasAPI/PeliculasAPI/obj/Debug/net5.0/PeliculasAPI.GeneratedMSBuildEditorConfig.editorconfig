@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = PeliculasAPI
-build_property.ProjectDir = C:\Users\Ian\Documents\Web Projets\AngularPeliculas\back-end\PeliculasAPI\PeliculasAPI\
+build_property.ProjectDir = C:\Users\Ian\Documents\My Software Development docs\Projects\AngularPeliculas\back-end\PeliculasAPI\PeliculasAPI\

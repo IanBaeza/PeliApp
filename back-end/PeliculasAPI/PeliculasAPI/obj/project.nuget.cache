@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xVt73vKpthqqeHPDR5uDDZZeAg3bbcqirmpkFDEIxZucW3ndnmei16saYKEjJpn+opgIgt5s9WsxlwsYAIW7Q==",
+  "dgSpecHash": "ht+xp9LPvmvX69EyQFTnudcLSNo8SvNyyNFC6/5d+gmNl7UD7V2e/yjEeL9KmWTG00xuq2Q2GifF/W7ZAZbyjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ian\\Documents\\Web Projets\\AngularPeliculas\\back-end\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ian\\Documents\\My Software Development docs\\Projects\\AngularPeliculas\\back-end\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ian\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Ian\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
